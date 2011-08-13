@@ -1,0 +1,4 @@
+consumer_key: 'your cosumer key'
+consumer_secret: 'your cosumer secret'
+oauth_token: 'oauth token'
+oauth_token_secret: 'oauth token secret'
